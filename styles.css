@@ -1,0 +1,16 @@
+.positionDiv {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+button {
+    display: block;
+}
+
+#position {
+    width: 20px;
+}
+
+#advertising {
+    width: 100%;
+    margin: 0 auto;
+}
